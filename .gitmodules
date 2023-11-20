@@ -1,0 +1,3 @@
+[submodule "latex-templates"]
+	path = latex-templates
+	url = https://github.com/hegde-atri/org-mode-latex-templates
